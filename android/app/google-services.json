@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "850009555172",
+    "project_id": "our-apps-2",
+    "storage_bucket": "our-apps-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850009555172:android:6a3b080aa662d37821acf1",
+        "android_client_info": {
+          "package_name": "com.TALO.OurAppsAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850009555172-38o2ri7c95o4jbvhscb3g6d9kntu01v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyEqzTbwbifVmOaLY8qi4YylxKjfTq5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850009555172-38o2ri7c95o4jbvhscb3g6d9kntu01v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850009555172-l32ten9tafrel30jglvht4tb1ind056o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TALO.ourAppsJson"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850009555172:android:ebbecc9fb6efd4d621acf1",
+        "android_client_info": {
+          "package_name": "com.TALO.ourAppsJson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850009555172-38o2ri7c95o4jbvhscb3g6d9kntu01v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyEqzTbwbifVmOaLY8qi4YylxKjfTq5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850009555172-38o2ri7c95o4jbvhscb3g6d9kntu01v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "850009555172-l32ten9tafrel30jglvht4tb1ind056o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TALO.ourAppsJson"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
